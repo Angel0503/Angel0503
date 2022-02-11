@@ -1,6 +1,6 @@
 ### Hello world ! 👋
-<img src="https://github-readme-stats.vercel.app/api?username=Angel0503&show_icons=true&theme=vision-friendly-dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel0503&theme=vision-friendly-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=Angel0503&show_icons=true&theme=vision-friendly-dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel0503&theme=vision-friendly-dark">
+
 
 <!--
 **Angel0503/Angel0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
